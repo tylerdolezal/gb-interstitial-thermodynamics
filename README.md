@@ -45,5 +45,5 @@ Run these scripts to generate the figures from the provided `.csv` data.
 * **`figure_s2.py`**: Visualizes SGC-MC convergence of energy and bulk composition for the Cr-solute calibration.
 * **`figure_s3.py`**: Validates the bilinear chemical potential fit using residual analysis.
 * **`figure_s4_s5.py`**: Visualizes the equilibration of the grain boundary region (Total Energy and $X_{GB}$).
-* **`figure_s6.py` / `figure_s7.py`**: Plot Supplemental trend lines for spectral energy and SRO summary metrics across all concentrations/temperatures.
+* **`figure_s6.py` / `figure_s7.py`**: Plot Supplemental trend lines for spectral Eseg energy and SRO summary metrics across all concentrations/temperatures.
 ---
