@@ -47,3 +47,9 @@ Run these scripts to generate the figures from the provided `.csv` data.
 * **`figure_s4_s5.py`**: Visualizes the equilibration of the grain boundary region (Total Energy and $X_{GB}$).
 * **`figure_s6.py` / `figure_s7.py`**: Plot Supplemental trend lines for spectral Eseg energy and SRO summary metrics across all concentrations/temperatures.
 ---
+
+## 📝 Citation
+
+If you use this data or these scripts in your research, please cite the following paper:
+
+> **Tyler D. Doležal, Rodrigo Freitas, Ju Li**, "Complementary Thermodynamic Mechanisms of Boron and Carbon Segregation at Grain Boundaries in Nickel Alloys," *Journal*, **[Year]**, [Volume], [Page Numbers/DOI].
