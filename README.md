@@ -12,6 +12,7 @@ The intent of this repository is to ensure **transparency and reproducibility of
 * **`data/`**: Consolidated datasets containing thermodynamic, spectral, and convergence histories.
 * **`plots/`**: Output directory for publication-quality PDF figures.
 * **`scripts`**: Python post-processing and plotting scripts.
+* **Simulation Framework**: The comprehensive Hybrid SGC/GC-MCMD simulation engine and Spectral Sampler used to generate the raw trajectory data for this study are available at: [https://github.com/tylerdolezal/hybrid_MCMD](https://github.com/tylerdolezal/hybrid_MCMD)
 
 ---
 
